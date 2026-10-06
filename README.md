@@ -39,8 +39,11 @@ python 黄缘龟桌宠.py
 ## 关于本程序
 需安装的python库:
 1.PyQt5>=5.15.0
+
 2.Pillow>=10.0.0
+
 3.numpy>=1.24.0
+
 4.python-pptx>=1.0.0
 
 **黄缘盒龟（Cuora flavomarginata）** 是国家二级保护动物，
